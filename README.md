@@ -1,5 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D44EGNM)
-
 ## Flatbed Towing for Alt:V Servers 
 
 Tired of clunky towing mechanics on your Alt:V Server? Say no more! With this plugin, you can tow and untow vehicles effortlessly while cruising in your flatbed. Just hit 'G' and let the towing adventure begin!
